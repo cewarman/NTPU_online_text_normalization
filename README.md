@@ -6,3 +6,5 @@ This project just uses the text-normalization service from 120.126.151.132 and r
 ```
 $ python3 reqtest.py testin.txt
 ```
+
+這是一個規則法的文字正規化系統，以openfst建立標記NSW的搜尋網路，再以相對應的規則做轉換。
