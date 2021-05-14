@@ -14,4 +14,7 @@ $ python3 reqtest.py testin.txt
 
 ## 原理 (Rationale)
 
-這是一個規則法的文字正規化系統，以openfst建立標記NSW的搜尋網路，再以相對應的規則做轉換。
+這是一個規則法的文字正規化系統，以 openfst 建立標記需要被文字正規的文字區塊之搜尋網路，再以相對應的規則做轉換。
+
+## 作者 
+北大通訊系研究生 李武豪, email : hank12451@gmail.com
