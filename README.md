@@ -1,5 +1,5 @@
-# NTPU-CETN 臺北大學中英夾雜文字正規化系統 
-NTPU-CETN 是 「NTPU Chinese-English Mixed (CEMixed) Text Normalization System」的縮寫
+# NTPU Online Text Normalization 臺北大學中英夾雜文字正規化系統 
+
 
 ---
 
