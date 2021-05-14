@@ -30,3 +30,5 @@ $ python3 reqtest.py testin.txt
 通訊作者 (Corresponding Author)：北大通訊系研究生 李武豪, email : hank12451@gmail.com
 
 其他作者：洪紹瑋、林衍廷、江振宇
+
+實驗室主持人：江振宇 老師
