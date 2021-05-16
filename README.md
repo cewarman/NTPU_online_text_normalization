@@ -20,7 +20,7 @@ $ python3 reqtest.py testin.txt
 
 ## 原理 (Rationale)
 
-這是一個基於規則法的文字正規化系統，以 openfst 建立標記需要被文字正規的文字區塊之搜尋網路，再以相對應的規則做轉換。
+這是一個基於規則法的文字正規化系統，以 openfst 建立標記需要被文字正規的文字區塊之搜尋網路，再以相對應的規則做轉換。不同於thrax將NSWs與SFWs放在FST的輸入輸出上，此系統將NSWs放在輸入，輸出則是其相對應的NSW-class。
 
 ---
 
