@@ -17,7 +17,7 @@ $ python3 reqtest.py testin.txt
 ```
 ※如果要大量使用正規化功能(10G以上)，煩請告知，不然學校的網管會認為有異常。
 
-※If you want to use the normalization function in large quantities(above 10G), please let me know, otherwise the school's network management will think something is abnormal.
+※If you want to use the normalization function in large quantities(above 10G), please let me know, otherwise the school's network administrator will think something is abnormal.
 
 ---
 
