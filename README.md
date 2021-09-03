@@ -4,7 +4,7 @@
 ---
 
 ## 簡介 (Introduction)
-這個項目利用 <a href="http://slos.ce.ntpu.edu.tw/">http://120.126.151.132/</a> 的文字正規化網頁服務跟 Python HTTP 庫裡的 requests，在終端機上用指令實現文字正規化功能。
+這個項目利用 <a href="http://slos.ce.ntpu.edu.tw/">http://slos.ce.ntpu.edu.tw/</a> 的文字正規化網頁服務跟 Python HTTP 庫裡的 requests，在終端機上用指令實現文字正規化功能。
 在這裡「文字正規化」是指把輸入的書寫體文字，轉換成口語體的文字，應用場景為文字轉語音系統的文字處理，比如「10%」要轉換成「百分之十」，目前此項目支援繁體中文以及繁體中文夾雜英文的輸入文字。
 
 The *NTPU Online Text Normalization* provides the text normalization service from http://slos.ce.ntpu.edu.tw/. The users may simply use the API constructed by the Python HTTP library to access the Chinese-English mixed text normalization service from users' terminals. The term 'text normalization' in this service means the conversion from written-form texts to spoken-form texts. The NTPU Online Text Normalization may serve as a text analysis front-end in a Chinese-English mixed text-to-speech system, e.g., the written form "10%" is converted to a spoken form "百分之十." Currently, the service supports input texts encoded in traditional Chiense characters (UTF8) and/or English alphabets (ASCII).
