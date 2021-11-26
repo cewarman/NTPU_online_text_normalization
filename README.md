@@ -42,39 +42,54 @@ $ python3 reqtest.py testin.txt
 數字、小數點
   1,000 -> 一千 
   0.58 -> 零點五八
+  
 錢
   $100 ->  一百
+  
 百分比
   80% ->  百分之八十
+  
 日期
   1992/09～1995/06 ->  一九九二年九月到一九九五年六月
   105/9/13 ->  一零五年九月十三號
   13/9/105 ->  一零五年九月十三日
+  
 英文姓名第幾世
-  Elizabeth ii ->  
+  Elizabeth ii ->  Elizabeth the second
+  
 溫度
   37℃ ->  攝氏三十七度
   37.5℉ ->  華氏三十七點五度
+  
 單位
   2、3匙 ->  兩、三匙
   3～5毫克 ->  三到五毫克
   5,000km ->  五千公里
+  
 2->to
   9to5 ->  nine-to-five 
   B2C ->  B to C
+  
 網址
   http//www.yuanzaicoin.com ->  http slash  slash www dot yuanzaicoin dot com
+  
 電話
   (02)2349-4666#123 ->  (零二)二三四九-四六六六轉分機一二三
+  
 時間
   10:00～18:00 ->  十點到十八點
+  
 表情符號的unicode 
   &#10003 ->  ✓
+  
 特殊英文、數字字串
   831 ->  八三么
   9m88 ->  九m八八
   co2 ->  C-O-two
+  
 英文後接+
   google+ ->  google plus
+  
 第幾
   26th ->  twenty-sixth
+  
