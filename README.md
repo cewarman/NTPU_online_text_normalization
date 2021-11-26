@@ -71,7 +71,7 @@ $ python3 reqtest.py testin.txt
   B2C ->  B to C
   
 網址
-  http//www.yuanzaicoin.com ->  http slash  slash www dot yuanzaicoin dot com
+  http://slos.ce.ntpu.edu.tw/  ->  http冒號 slash  slash slos dot ce dot ntpu dot edu dot tw slash
   
 電話
   (02)2349-4666#123 ->  (零二)二三四九-四六六六轉分機一二三
